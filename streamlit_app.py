@@ -1,2 +1,2 @@
 import streamlit as sl
-import snowflake.connector
+import snowflake.connector as sgc
